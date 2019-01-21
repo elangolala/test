@@ -6,3 +6,6 @@ chicken
 dosa
 idly 
 sambar
+
+noodles
+magi
