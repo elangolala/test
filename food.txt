@@ -6,3 +6,5 @@ chicken
 dosa
 idly 
 sambar
+puliyodara
+pongal
